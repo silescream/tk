@@ -2499,29 +2499,11 @@
       "primary-hover": {
         "value": "{button.bg.primary}",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "0.16",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Background for primary buttons hover"
       },
       "primary-pressed": {
         "value": "{button.bg.primary}",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "0.20",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Background for primary pressed"
       },
       "primary-disabled-additional": {
