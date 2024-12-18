@@ -2529,29 +2529,11 @@
       "secondary-hover": {
         "value": "{button.bg.secondary}",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "0.2",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Background for secondary buttons hover"
       },
       "secondary-pressed": {
         "value": "{button.bg.secondary}",
         "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "darken",
-              "value": "0.1",
-              "space": "srgb"
-            }
-          }
-        },
         "description": "Background for secondary buttons pressed"
       },
       "secondary-disabled": {
